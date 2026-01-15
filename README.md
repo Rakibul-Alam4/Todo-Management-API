@@ -87,4 +87,3 @@ Protected routes validate tokens via OAuth2
 
 Authorization logic enforces controlled access to sensitive endpoints
 
-
